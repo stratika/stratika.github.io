@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Thanos Stratikopoulos"
   avatar           : "profile.png"
-  bio              : "Research Associate at The University of Manchester. TornadoVM Technology & Commercialization"
+  bio              : "Research Associate at The University of Manchester"
   location         : "Manchester, United Kingdom"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=uAJkthMAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=uAJkthMAAAAJ&hl=en"
   email            : "athanasios.stratikopoulos@manchester.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
