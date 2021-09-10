@@ -2,13 +2,13 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Department of Computer Science"
-permalink: /teaching
-date: 2014-09-15
+permalink: /teaching/teaching-assistant
+date: 2016-09-15
 venue: "The University of Manchester"
 location: "Manchester, United Kingdom"
 ---
 
-During my PhD (2014-2018) at The University of Manchester, I worked part-time as a Teaching Assistant for the following Computer Science modules:
+<i>(Sep 2016 - Jan 2018)</i>
 
 [COMP12111](https://studentnet.cs.manchester.ac.uk/ugt/COMP12111/syllabus/) Fundamentals of Computer Engineering
 
