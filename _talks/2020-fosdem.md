@@ -1,7 +1,7 @@
 ---
 title: "TornadoVM: A Java Virtual Machine for Exploiting Heterogeneous Hardware"
 collection: talks
-type: "Submitted Talk"
+type: "Accepted Talk"
 permalink: /talks/2020-fosdem
 venue: "FOSDEM"
 date: 2020-02-01
