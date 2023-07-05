@@ -16,7 +16,9 @@ Education
 
 Work experience
 ======
-* 12/2018 - now: Research Associate at The University of Manchester
+* 08/2023 - now: Research Fellow at The University of Manchester
+
+* 12/2018 - 07/2023: Research Associate at The University of Manchester
 
 * 09/2016 - 01/2018: Teaching Assistant at The University of Manchester
 
