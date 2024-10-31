@@ -74,6 +74,12 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Blogs
+======
+  <ul>{% for post in site.blogs %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
 Teaching
 ======
