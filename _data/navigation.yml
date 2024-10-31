@@ -6,16 +6,16 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Blog Posts"
+    url: /blogs/
+
+  - title: "Projects"
+    url: /projects/
+
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Projects"
-    url: /projects/
-        
-  - title: "Blog Posts"
-    url: /blogs/
-    
-  - title: "CV"
+  - title: "My CV"
     url: /cv/
     
 #  - title: "Guide"
