@@ -4,7 +4,7 @@ collection: blogs
 type: "Public blog"
 permalink: /blogs/defining-patterns-of-data-transfers-for-java-applications-with-tornadovm
 venue: "tornadovm.org"
-date: 2022-07-22
+date: 2024-07-30
 location: "Online"
 ---
 
