@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+<<<<<<< HEAD
 * B.S. in Electronic and Computer Engineering, Technical University of Crete, 2013
 * Ph.D in Computer Science, The University of Manchester, 2018
 
@@ -23,6 +24,27 @@ Work experience
 * 09/2016 - 01/2018: Teaching Assistant at The University of Manchester
 
 * 09/2014 - 09/2018: PhD Researcher at The University of Manchester
+=======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
+
+Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * GitHub University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
   
 Skills
 ======
@@ -66,13 +88,15 @@ Publications
 | h-index                   | 6      |
 
   <ul>{% for post in site.publications %}
+=======
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
 Blogs
@@ -83,7 +107,7 @@ Blogs
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
