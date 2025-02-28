@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-<<<<<<< HEAD
 * B.S. in Electronic and Computer Engineering, Technical University of Crete, 2013
 * Ph.D in Computer Science, The University of Manchester, 2018
 
