@@ -4,7 +4,7 @@ collection: talks
 type: "Accepted Talk"
 permalink: /talks/2025-devoxx-be
 venue: "DEVOXX Belgium"
-date: 2023-10-06
+date: 2025-10-06
 location: "Antwerp, Belgium"
 ---
 
