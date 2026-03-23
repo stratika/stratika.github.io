@@ -17,6 +17,7 @@ Education
 Work experience
 ======
 * 08/2023 - now: Research Fellow at The University of Manchester
+  * Contributed to undergraduate tutorials and project supervision, including supervision and mentoring of undergraduate, MSc, and PhD students.
 
 * 12/2018 - 07/2023: Research Associate at The University of Manchester
 
@@ -24,35 +25,15 @@ Work experience
 
 * 09/2014 - 09/2018: PhD Researcher at The University of Manchester
 
-=======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
 Skills
 ======
-* Driver Development
+* Compiler Optimization
+* GPU Development
 * FPGA Development
   * VHDL, Verilog, Bluespec System Verilog
+* Driver Development
 * Programming Languages
-  * C, Java, OpenCL, CUDA
+  * Java, C, C++, OpenCL, CUDA
 * Algorithm Acceleration
 
 Awards
@@ -66,6 +47,7 @@ Open-Source Contributions
 ======
 * TornadoVM: A practical heterogeneous programming framework for managed
 languages. [GitHub](https://github.com/beehive-lab/TornadoVM)
+* GPULlama3: GPU-accelerated Llama3.java inference in pure Java using TornadoVM. [GitHub](https://github.com/beehive-lab/GPULlama3.java)
 * TornadoInsight: Unleashing the Power of TornadoVM in IntelliJ IDEA.
 [GitHub](https://github.com/beehive-lab/tornado-insight)
 * TornadoVM-Ray-Tracer: A real-time ray tracer in Java, accelerated on
@@ -84,8 +66,8 @@ Publications
 | Conferences Peer-reviewed | 15     |
 | Workshops Peer-reviewed   | 4      |
 | Total Publications        | 23     |
-| Total Citations           | 126    |
-| h-index                   | 6      |
+| Total Citations           | 155    |
+| h-index                   | 7      |
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
