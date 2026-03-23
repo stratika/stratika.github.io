@@ -17,7 +17,6 @@ Education
 Work experience
 ======
 * 08/2023 - now: Research Fellow at The University of Manchester
-  * Contributed to undergraduate tutorials and project supervision, including supervision and mentoring of undergraduate, MSc, and PhD students.
 
 * 12/2018 - 07/2023: Research Associate at The University of Manchester
 
