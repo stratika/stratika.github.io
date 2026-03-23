@@ -63,7 +63,7 @@ Publications
 |---------------------------|--------|
 | Book                      | 1      |
 | Journals Peer-reviewed    | 3      |
-| Conferences Peer-reviewed | 15     |
+| Conferences Peer-reviewed | 16     |
 | Workshops Peer-reviewed   | 4      |
 | Total Publications        | 23     |
 | Total Citations           | 155    |
