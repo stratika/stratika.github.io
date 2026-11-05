@@ -46,7 +46,7 @@ Open-Source Contributions
 ======
 * TornadoVM: A practical heterogeneous programming framework for managed
 languages. [GitHub](https://github.com/beehive-lab/TornadoVM)
-* GPULlama3: GPU-accelerated Llama3.java inference in pure Java using TornadoVM. [GitHub](https://github.com/beehive-lab/GPULlama3.java)
+* jitllm: GPU-accelerated Llama3.java inference in pure Java using TornadoVM. [GitHub](https://github.com/beehive-lab/jitllm)
 * TornadoInsight: Unleashing the Power of TornadoVM in IntelliJ IDEA.
 [GitHub](https://github.com/beehive-lab/tornado-insight)
 * TornadoVM-Ray-Tracer: A real-time ray tracer in Java, accelerated on
